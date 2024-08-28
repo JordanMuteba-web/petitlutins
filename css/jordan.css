@@ -9,5 +9,7 @@
 jo-in-3{
     background: linear-gradient(rgba(20, 20, 31, .7), rgba(16, 16, 24, 0.644)), url(../img/activites-1024x683.jpg);
     
-
+}
+.bg-in-jo-text-2{
+    background-color: rgba(2, 67, 49, 0.263);
 }
